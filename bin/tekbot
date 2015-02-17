@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export HUBOT_IRC_SERVER="irc.freenode.net";
+export HUBOT_IRC_ROOMS="#teksyndicate";
+export HUBOT_IRC_NICK="tekbot";
+export HUBOT_IRC_UNFLOOD="true";
+
+bin/hubot -a irc --name tekbot
