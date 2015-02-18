@@ -18,7 +18,8 @@
     "hubot-redis-brain": "0.0.2",
     "hubot": "~2.11.1",
     "hubot-maps": "0.0.1",
-    "hubot-irc": "~0.2.7"
+    "hubot-irc": "~0.2.7",
+    "redis": "~0.12.1"
   },
   "engines": {
     "node": "0.10.x"
